@@ -1,1 +1,1 @@
-STEAM HELP
+ HELP
